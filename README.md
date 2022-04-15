@@ -1,5 +1,4 @@
 # This page is still under testing phase!!!
-<span style="color: red;">text</span>
 
 ## Welcome to NienChi's GitHub Pages
 
